@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-calendar-reminder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Calendar -> WhatsApp Business Cloud API 24-hour appointment reminder",
+  "scripts": {
+    "login": "clasp login",
+    "push": "clasp push",
+    "pull": "clasp pull",
+    "open": "clasp open"
+  },
+  "devDependencies": {
+    "@google/clasp": "^3.0.0"
+  }
+}

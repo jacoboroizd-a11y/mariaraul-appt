@@ -1,0 +1,23 @@
+Template name:
+recordatorio_cita_24h
+
+Suggested category:
+UTILITY
+
+Language:
+Spanish (use the exact language code shown in WhatsApp Manager and set TEMPLATE_LANGUAGE accordingly)
+
+Body:
+Buen día, {{1}} ✨
+
+Le recordamos que tiene una cita programada para mañana a las {{2}}.
+
+Por favor, confírmenos su asistencia respondiendo a este mensaje.
+
+Le recordamos que las cancelaciones realizadas con menos de 24 horas de anticipación no aplican para devolución del depósito; sin embargo, este podrá utilizarse para reprogramar su cita.
+
+¡Muchas gracias! Esperamos verle mañana.
+
+Variables:
+{{1}} = patient/client name
+{{2}} = appointment time
